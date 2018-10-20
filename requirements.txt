@@ -1,0 +1,2 @@
+eyed3==0.8.7
+asyncpipe==0.0.1
